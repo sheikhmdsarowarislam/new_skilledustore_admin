@@ -8,8 +8,7 @@ const ALLOWED_DOMAINS = [
   'www.skilledustore.com',
   'dashboard.skilledustore.com',
   'localhost:3000',
-  'skilledustore.shop',
-  'www.skilledustore.shop',
+  'new-skilledustore-admin.vercel.app', // 👈 আপনার নতুন ডোমেইনটি এখানে বসান
   'admin-panel-plum-eight.vercel.app',
 ];
 
