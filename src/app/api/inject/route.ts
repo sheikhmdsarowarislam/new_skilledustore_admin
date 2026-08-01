@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-const EXTERNAL_PROXY_URL = "https://admin-panel-plum-eight.vercel.app/api/proxy";
+const EXTERNAL_PROXY_URL = "https://new-skilledustore-admin.vercel.app/api/proxy";
 
 export async function POST(req: NextRequest) {
   try {
